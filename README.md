@@ -9,6 +9,5 @@
 ![tools.png](https://media.discordapp.net/attachments/1004248856009129995/1063920134604992622/Untitled_design3-modified.png?width=205&height=51)
 ----
 ### ✨ - Notable Mentions!
-- **[Jeymen](https://github.com/jeymen)** -> Genuinely an amazing person!
 - **[Eris](https://abal.moe/Eris/)** -> My favourite Discord Library!
 
