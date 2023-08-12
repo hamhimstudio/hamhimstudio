@@ -25,10 +25,18 @@ i am trying to be more active now but we'll see haha</p>
 </p>
 <h6 align="center">Epic Repositories</h6>
 <p align="center">
+<a href="https://github.com/teammicrowave/micro">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=teammicrowave&repo=micro&theme=radical"/>
+</a>
+<a href="https://github.com/hamhimdev/fruit">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamhimdev&repo=fruit&theme=radical"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=hamhimstudio&repo=BrowseOwO&theme=radical"
+</a>
+<a href="https://github.com/hamhimstudio/BrowseOwO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=hamhimstudio&repo=BrowseOwO&theme=radical"/>
+</a>
 </p>
 <h6 align="center">Not doing the best at stats :(</h6>
 <p align="center">
