@@ -5,7 +5,7 @@
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=nodejs,ts,cpp,discord,figma,html,css,py,netlify,svelte"/>
 </a>
-<h4 align="center">17 y/o femboy who codes 😎</h4>
+<h4 align="center">I code shit 😎</h4>
 <p align="center">
 i code when i feel like it, hence why i'm really inactive here</p>
 <p align="center">
