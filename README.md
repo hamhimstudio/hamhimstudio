@@ -8,16 +8,16 @@ i code when i feel like it, hence why i'm really inactive here</p>
 <h6 align="center">Epic Repositories</h6>
 <p align="center">
 <a href="https://github.com/hamhimdev/exhaustive">
-<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=hamhimdev&repo=exhaustive&theme=radical"/>
+<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=hamhimdev&repo=exhaustive"/>
 </a>
 <a href="https://github.com/Clickette/Glyphin">
-<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=Clickette&repo=Glyphin&theme=radical"/>
+<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=Clickette&repo=Glyphin"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical"/>
+<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=anuraghazra&repo=github-readme-stats"/>
 </a>
 <a href="https://github.com/hamhimstudio/textile">
-<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=hamhimstudio&repo=textile&theme=radical"/>
+<img src="https://readme-stats.jonas-bernard.dev/api/pin/?username=hamhimstudio&repo=textile"/>
 </a>
 </p>
 <p align="center">
